@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/03/12 13:12:35.346,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\Unit2.pas</Transaction>
+    <Transaction>2019/03/12 13:12:35.481,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\ServerController.pas</Transaction>
+    <Transaction>2019/03/12 13:12:35.514,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\UserSessionUnit.pas</Transaction>
+    <Transaction>2019/03/12 13:13:06.439,C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\CodigoBarra_Isapi.dproj=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\Project1.dproj</Transaction>
+    <Transaction>2019/03/12 13:13:16.688,C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\UserSessionUnit.pas=</Transaction>
+    <Transaction>2019/03/12 13:13:16.736,C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\Unit2.pas=</Transaction>
+    <Transaction>2019/03/12 13:13:16.763,C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\Project1\ServerController.pas=</Transaction>
+    <Transaction>2019/03/12 13:13:23.518,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\ServerController.pas</Transaction>
+    <Transaction>2019/03/12 13:13:23.574,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\uCodeBar.pas</Transaction>
+    <Transaction>2019/03/12 13:13:23.624,=C:\Users\consu\OneDrive\Área de Trabalho\Nova pasta\UserSessionUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
